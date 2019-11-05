@@ -67,7 +67,7 @@ The other way in which you can contribute is to become an 'community maintainer'
 
 In most cases you'll simply be able to copy and paste our official installer and upgrade scripts and just make the required OS/distribution specific changes such as file/directory paths and operating system/distribution specific package configuration amendments.
 
-If you are interested in becoming an community maintainer please email [ballen@zpanelcp.com](mailto:ballen@zpanelcp.com) stating your interest in becoming a community maintainer and the OS/distribution that you wish to maintain.
+If you are interested in becoming an community maintainer please email [saklinl@gmail.com](mailto:saklinl@gmail.com) stating your interest in becoming a community maintainer and the OS/distribution that you wish to maintain.
 
 Please be aware that community supported install and upgrade scripts that we will host and promote must adhere to the following rules:
 
@@ -75,4 +75,4 @@ Please be aware that community supported install and upgrade scripts that we wil
 - Will be licensed under the GPL and hosted on this repository.
 - Must maintain the same user interface as our official install/upgrade scripts (eg. shell script echo's and 'read' statements must match the same wording to ensure that the installation experience across all OSes and distributions give the same user experience.)
 
-If you have any queries regarding the above rules please feel free to contact me at: [ballen@zpanelcp.com](mailto:ballen@zpanelcp.com).
+If you have any queries regarding the above rules please feel free to contact me at: [saklinl@gmail.com](mailto:saklinl@gmail.com).
